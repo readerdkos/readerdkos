@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Drishti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Drishti Desai !!!! </h1>
+<h3 align="center">A passionate developer, artist and writer from India</h3>
 
-- 🔭 I’m currently working on **Writers networking website**
+- 🔭 I’m currently working on **a writers networking website !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wwxliker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wwxliker" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/drishti-desai-a3515a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drishti-desai-a3515a214" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/drishti-desai-a3515a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/drishti-desai-a3515a214" height="30" width="40" /></a>
 <a href="https://instagram.com/foolish.drii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="foolish.drii" height="30" width="40" /></a>
 <a href="https://discord.gg/wwxliker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wwxliker" height="30" width="40" /></a>
 </p>
